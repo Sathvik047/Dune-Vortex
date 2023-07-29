@@ -9,6 +9,7 @@ This project is basically me creating a 3D interactive dune skybox using Three.j
 
 **Tech Stack**
 Three.js: Used this JavaScript library for 3D graphics and WebGL rendering.
+
 OrbitControls: A helper class in Three.js that allows easy camera control, enabling the user to orbit, pan, and zoom around the scene.
 
 
