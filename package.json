@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "three": "^0.155.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.7"
+  },
+  "scripts": {
+    "dev": "vite", 
+    "build": "vite build" 
+  },
+  "name": "bam",
+  "version": "1.0.0",
+  "main": "script.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
